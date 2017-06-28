@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://giganticoranges.github.io/</id>
+	<title>The Robotics Institute @ Guelph</title>
+	<updated>2017-06-27T20:01:32+00:00</updated>
+
+	<subtitle></subtitle>
+
+	
+		
+		<author>
+			
+				<name>Trevor</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://giganticoranges.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://giganticoranges.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
+
+	
+		<entry>
+			<id>https://giganticoranges.github.io/people/patrick-wspanialy/index.html</id>
+			<title>Graduate Student</title>
+			<link href="https://giganticoranges.github.io/people/patrick-wspanialy/index.html" rel="alternate" type="text/html" title="Graduate Student" />
+			<updated>2017-04-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Patrick Wspanialy</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/people/patrick-wspanialy/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
+  &lt;a href=&quot;/people/patrick-wspanialy/index.html&quot;&gt;&lt;img src=&quot;/images/patrick.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;p&gt;&lt;strong&gt;Patrick Wspanialy,&lt;/strong&gt;&lt;br /&gt;
+  &lt;strong&gt;M.Sc.&lt;/strong&gt;&lt;br /&gt;
+  &lt;a href=&quot;mailto:halturki@uoguelph.ca&quot;&gt;pwspania@uoguelph.ca&lt;/a&gt; &lt;br /&gt;
+Room 3405&lt;/p&gt;
+&lt;/div&gt;
+</content>
+
+			
+				<category term="students" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/people/medhat-moussa/index.html</id>
+			<title>Faculty</title>
+			<link href="https://giganticoranges.github.io/people/medhat-moussa/index.html" rel="alternate" type="text/html" title="Faculty" />
+			<updated>2017-04-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Medhat Moussa</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/people/medhat-moussa/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
+
+  &lt;a href=&quot;/people/medhat-moussa/index.html&quot;&gt;&lt;img src=&quot;/images/medhat_moussa.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;p&gt;&lt;strong&gt;Medhat Moussa,&lt;/strong&gt;&lt;br /&gt;
+  &lt;strong&gt;Ph.D., P.Eng.&lt;/strong&gt;&lt;br /&gt;
+  &lt;a href=&quot;mailto:mmoussa@uoguelph.ca&quot;&gt;mmoussa@uoguelph.ca&lt;/a&gt; &lt;br /&gt;
+Room 1343&lt;br /&gt;
+Tel: 519 824-4120 ext:53425&lt;/p&gt;
+&lt;/div&gt;
+</content>
+
+			
+				<category term="researchers" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/research-projects/gigas/index.html</id>
+			<title>GIGAS: Guelph Intelligent Greenhouse Automation System</title>
+			<link href="https://giganticoranges.github.io/research-projects/gigas/index.html" rel="alternate" type="text/html" title="GIGAS: Guelph Intelligent Greenhouse Automation System" />
+			<updated>2017-04-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/research-projects/gigas/index.html">&lt;div class=&quot;row t30&quot;&gt;
+	&lt;div class=&quot;medium-12 columns&quot;&gt;
+		&lt;article itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+
+			&lt;div itemprop=&quot;articleSection&quot;&gt;
+			&lt;ol&gt;
+
+                        &lt;p&gt;
+
+&lt;br /&gt;Canada has a significant and growing greenhouse industry that almost doubled in the last ten years. There are currently around 2000 acres of greenhouse operations in Canada. Crops developed within greenhouses vary from flowers to vegetables and fruits. Greenhouse operations are known to be labour intensive. The objective of this research is to develop an intelligent robotics technology that has significant functional capabilities relevant to a wide range of greenhouse operators. The main challenges are accuracy, cycle time, and cost. The robotics system must be able to perform various tasks at the same accuracy and speed of manual labour but at a cost that is reasonable for a typical greenhouse farmer. Present projects at the Institute explore the possible roles of robots in greenhouse environments.&lt;/p&gt;
+
+&lt;div class=&quot;row t30&quot;&gt;
+ &lt;div class=&quot;small-4 columns&quot;&gt;
+  &lt;img src=&quot;/images/projects-6.jpg&quot; /&gt;
+ &lt;/div&gt;
+ &lt;div class=&quot;small-4 columns&quot;&gt;
+  &lt;img src=&quot;/images/projects-7.jpg&quot; /&gt;
+ &lt;/div&gt;
+ &lt;div class=&quot;small-4 columns&quot;&gt;
+  &lt;img src=&quot;/images/projects-8.jpg&quot; /&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;/ol&gt;&lt;/div&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+
+			
+				<category term="research-projects" />
+			
+			
+
+			<published>2017-04-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/former/Ahmed/</id>
+			<title>Former Member</title>
+			<link href="https://giganticoranges.github.io/former/Ahmed/" rel="alternate" type="text/html" title="Former Member" />
+			<updated>2017-04-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ahmed Elhossini, Ph.D.</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/former/Ahmed/">
+</content>
+
+			
+				<category term="former" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/people/elaine-vegeris/index.html</id>
+			<title>Co-op Student</title>
+			<link href="https://giganticoranges.github.io/people/elaine-vegeris/index.html" rel="alternate" type="text/html" title="Co-op Student" />
+			<updated>2017-04-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Elaine Vegeris</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/people/elaine-vegeris/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
+  &lt;a href=&quot;/people/elaine-vegeris/index.html&quot;&gt;&lt;img src=&quot;/images/Elaine.png&quot; /&gt;&lt;/a&gt;
+  &lt;p&gt;&lt;strong&gt;Elaine Vegeris&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;mailto:evegeris@mail.uoguelph.ca &quot;&gt;evegeris@mail.uoguelph.ca &lt;/a&gt; &lt;br /&gt;
+Room 3405&lt;/p&gt;
+ &lt;/div&gt;
+</content>
+
+			
+				<category term="coop" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/people/farah-masood/index.html</id>
+			<title>Graduate Student</title>
+			<link href="https://giganticoranges.github.io/people/farah-masood/index.html" rel="alternate" type="text/html" title="Graduate Student" />
+			<updated>2017-04-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Farah Masood</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/people/farah-masood/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
+  &lt;a href=&quot;/people/farah-masood/index.html&quot;&gt;&lt;img src=&quot;/images/farah.png&quot; /&gt;&lt;/a&gt;
+  &lt;p&gt;&lt;strong&gt;Farah Masood,&lt;/strong&gt;&lt;br /&gt;
+  &lt;strong&gt;M.Sc.&lt;/strong&gt;&lt;br /&gt;
+  &lt;a href=&quot;mailto:fmasood@uoguelph.ca&quot;&gt;fmasood@uoguelph.ca&lt;/a&gt; &lt;br /&gt;
+Room 3405&lt;/p&gt;
+&lt;/div&gt;
+</content>
+
+			
+				<category term="students" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-19T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/people/hussein-abdullah/index.html</id>
+			<title>Faculty</title>
+			<link href="https://giganticoranges.github.io/people/hussein-abdullah/index.html" rel="alternate" type="text/html" title="Faculty" />
+			<updated>2017-04-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Hussein A. Abdullah</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/people/hussein-abdullah/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
+
+  &lt;a href=&quot;/people/hussein-abdullah/index.html&quot;&gt;&lt;img src=&quot;/images/hussein_abdullah.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;p&gt;&lt;strong&gt;Hussein A. Abdullah,&lt;/strong&gt;&lt;br /&gt;
+  &lt;strong&gt;Ph.D., P.Eng&lt;/strong&gt;&lt;br /&gt;
+  &lt;a href=&quot;mailto:habdulla@uoguelph.ca&quot;&gt;habdulla@uoguelph.ca&lt;/a&gt; &lt;br /&gt;
+  Room 3517&lt;br /&gt;
+  Tel: 519 824-4120 ext:53346&lt;/p&gt;
+&lt;/div&gt;
+</content>
+
+			
+				<category term="researchers" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-19T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/research-projects/robo-rehab/index.html</id>
+			<title>Robo Rehab</title>
+			<link href="https://giganticoranges.github.io/research-projects/robo-rehab/index.html" rel="alternate" type="text/html" title="Robo Rehab" />
+			<updated>2017-04-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/research-projects/robo-rehab/index.html">&lt;div class=&quot;row t30&quot;&gt;
+	&lt;div class=&quot;medium-12 columns&quot;&gt;
+		&lt;article itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+
+			&lt;div itemprop=&quot;articleSection&quot;&gt;
+			&lt;ol&gt;
+
+                        &lt;p&gt;
+
+&lt;br /&gt;The Institute conducts research within the field of rehabilitation robotics in order to build intelligent robotic systems that can provide an opportunity to improve the quality of life for people. Research in this area explores the use of robots as rehabilitation tools for people who have experienced limb disabilities or impairments caused by a severe injury or accident. Researchers at the Institute have collaborated with physiotherapists to develop an intelligent user-friendly therapeutic robotic system based on the anthropometry of the stroke population.&lt;/p&gt;
+
+&lt;div class=&quot;row t30&quot;&gt;
+ &lt;div class=&quot;small-6 columns&quot;&gt;
+  &lt;img src=&quot;/images/projects-9.jpg&quot; /&gt;
+ &lt;/div&gt;
+ &lt;div class=&quot;small-6 columns&quot;&gt;
+  &lt;img src=&quot;/images/projects-10.jpg&quot; /&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;/ol&gt;&lt;/div&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+
+			
+				<category term="research-projects" />
+			
+			
+
+			<published>2017-04-19T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/former/Tom/</id>
+			<title>Former Member</title>
+			<link href="https://giganticoranges.github.io/former/Tom/" rel="alternate" type="text/html" title="Former Member" />
+			<updated>2017-04-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Tom Hummel, Ph.D.</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/former/Tom/">
+</content>
+
+			
+				<category term="former" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-19T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://giganticoranges.github.io/people/evan-smith/index.html</id>
+			<title>Co-op Student</title>
+			<link href="https://giganticoranges.github.io/people/evan-smith/index.html" rel="alternate" type="text/html" title="Co-op Student" />
+			<updated>2017-04-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Trevor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Evan Smith</summary>
+			<content type="html" xml:base="https://giganticoranges.github.io/people/evan-smith/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
+  &lt;a href=&quot;/people/evan-smith/index.html&quot;&gt;&lt;img src=&quot;/images/missing_image.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;p&gt;&lt;strong&gt;Evan Smith&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;mailto:esmith13@mail.uoguelph.ca &quot;&gt;esmith13@mail.uoguelph.ca &lt;/a&gt; &lt;br /&gt;
+Room 3405&lt;/p&gt;
+ &lt;/div&gt;
+</content>
+
+			
+				<category term="coop" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-04-19T00:00:00+00:00</published>
+		</entry>
+	
+</feed>
