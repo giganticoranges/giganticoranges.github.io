@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://giganticoranges.github.io/</id>
 	<title>The Robotics Institute @ Guelph</title>
-	<updated>2017-06-28T18:25:06+00:00</updated>
+	<updated>2017-06-29T17:23:33+00:00</updated>
 
 	<subtitle></subtitle>
 
@@ -41,7 +41,7 @@
 					
 				</author>
 			
-			<summary>Patrick Wspanialy</summary>
+			<summary>Patrick Wspanialy, M.Sc.</summary>
 			<content type="html" xml:base="https://giganticoranges.github.io/people/patrick-wspanialy/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
   &lt;a href=&quot;/people/patrick-wspanialy/index.html&quot;&gt;&lt;img src=&quot;/images/patrick.jpg&quot; /&gt;&lt;/a&gt;
   &lt;p&gt;&lt;strong&gt;Patrick Wspanialy,&lt;/strong&gt;&lt;br /&gt;
@@ -77,7 +77,7 @@ Room 3405&lt;/p&gt;
 					
 				</author>
 			
-			<summary>Medhat Moussa</summary>
+			<summary>Medhat Moussa, Ph.D., P.Eng.</summary>
 			<content type="html" xml:base="https://giganticoranges.github.io/people/medhat-moussa/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
 
   &lt;a href=&quot;/people/medhat-moussa/index.html&quot;&gt;&lt;img src=&quot;/images/medhat_moussa.jpg&quot; /&gt;&lt;/a&gt;
@@ -230,7 +230,7 @@ Room 3405&lt;/p&gt;
 					
 				</author>
 			
-			<summary>Farah Masood</summary>
+			<summary>Farah Masood, M.Sc.</summary>
 			<content type="html" xml:base="https://giganticoranges.github.io/people/farah-masood/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
   &lt;a href=&quot;/people/farah-masood/index.html&quot;&gt;&lt;img src=&quot;/images/farah.png&quot; /&gt;&lt;/a&gt;
   &lt;p&gt;&lt;strong&gt;Farah Masood,&lt;/strong&gt;&lt;br /&gt;
@@ -266,12 +266,12 @@ Room 3405&lt;/p&gt;
 					
 				</author>
 			
-			<summary>Hussein A. Abdullah</summary>
+			<summary>Hussein A. Abdullah, Ph.D., P.Eng.</summary>
 			<content type="html" xml:base="https://giganticoranges.github.io/people/hussein-abdullah/index.html">&lt;div class=&quot;small-6 columns&quot;&gt;
 
   &lt;a href=&quot;/people/hussein-abdullah/index.html&quot;&gt;&lt;img src=&quot;/images/hussein_abdullah.jpg&quot; /&gt;&lt;/a&gt;
   &lt;p&gt;&lt;strong&gt;Hussein A. Abdullah,&lt;/strong&gt;&lt;br /&gt;
-  &lt;strong&gt;Ph.D., P.Eng&lt;/strong&gt;&lt;br /&gt;
+  &lt;strong&gt;Ph.D., P.Eng.&lt;/strong&gt;&lt;br /&gt;
   &lt;a href=&quot;mailto:habdulla@uoguelph.ca&quot;&gt;habdulla@uoguelph.ca&lt;/a&gt; &lt;br /&gt;
   Room 3517&lt;br /&gt;
   Tel: 519 824-4120 ext:53346&lt;/p&gt;
