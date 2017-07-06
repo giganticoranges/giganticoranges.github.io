@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://giganticoranges.github.io/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://giganticoranges.github.io/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>The Robotics Institute @ Guelph</title>
 		<description></description>
-		<link>https://giganticoranges.github.io/</link>
-		<atom:link href="https://giganticoranges.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Graduate Student</title>
-				<link>https://giganticoranges.github.io/people/patrick-wspanialy/index.html</link>
+				<link>/people/patrick-wspanialy/index.html</link>
 				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;small-6 columns&quot;&gt;
   &lt;a href=&quot;/people/patrick-wspanialy/index.html&quot;&gt;&lt;img src=&quot;/images/patrick.jpg&quot; /&gt;&lt;/a&gt;
@@ -20,12 +20,12 @@
 Room 3405&lt;/p&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/people/patrick-wspanialy/index.html</guid>
+				<guid isPermaLink="true">/people/patrick-wspanialy/index.html</guid>
 			</item>
 		
 			<item>
 				<title>Faculty</title>
-				<link>https://giganticoranges.github.io/people/medhat-moussa/index.html</link>
+				<link>/people/medhat-moussa/index.html</link>
 				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;small-6 columns&quot;&gt;
 
@@ -37,12 +37,12 @@ Room 1343&lt;br /&gt;
 Tel: 519 824-4120 ext:53425&lt;/p&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/people/medhat-moussa/index.html</guid>
+				<guid isPermaLink="true">/people/medhat-moussa/index.html</guid>
 			</item>
 		
 			<item>
 				<title>GIGAS: Guelph Intelligent Greenhouse Automation System</title>
-				<link>https://giganticoranges.github.io/research-projects/gigas/index.html</link>
+				<link>/research-projects/gigas/index.html</link>
 				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;row t30&quot;&gt;
 	&lt;div class=&quot;medium-12 columns&quot;&gt;
@@ -68,21 +68,21 @@ Tel: 519 824-4120 ext:53425&lt;/p&gt;
 &lt;/div&gt;
 &lt;/ol&gt;&lt;/div&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/research-projects/gigas/index.html</guid>
+				<guid isPermaLink="true">/research-projects/gigas/index.html</guid>
 			</item>
 		
 			<item>
 				<title>Former Member</title>
-				<link>https://giganticoranges.github.io/former/Ahmed/</link>
+				<link>/former/Ahmed/</link>
 				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
 				<description>
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/former/Ahmed/</guid>
+				<guid isPermaLink="true">/former/Ahmed/</guid>
 			</item>
 		
 			<item>
 				<title>Co-op Student</title>
-				<link>https://giganticoranges.github.io/people/elaine-vegeris/index.html</link>
+				<link>/people/elaine-vegeris/index.html</link>
 				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;small-6 columns&quot;&gt;
   &lt;a href=&quot;/people/elaine-vegeris/index.html&quot;&gt;&lt;img src=&quot;/images/Elaine.png&quot; /&gt;&lt;/a&gt;
@@ -91,12 +91,12 @@ Tel: 519 824-4120 ext:53425&lt;/p&gt;
 Room 3405&lt;/p&gt;
  &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/people/elaine-vegeris/index.html</guid>
+				<guid isPermaLink="true">/people/elaine-vegeris/index.html</guid>
 			</item>
 		
 			<item>
 				<title>Graduate Student</title>
-				<link>https://giganticoranges.github.io/people/farah-masood/index.html</link>
+				<link>/people/farah-masood/index.html</link>
 				<pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;small-6 columns&quot;&gt;
   &lt;a href=&quot;/people/farah-masood/index.html&quot;&gt;&lt;img src=&quot;/images/farah.png&quot; /&gt;&lt;/a&gt;
@@ -106,12 +106,12 @@ Room 3405&lt;/p&gt;
 Room 3405&lt;/p&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/people/farah-masood/index.html</guid>
+				<guid isPermaLink="true">/people/farah-masood/index.html</guid>
 			</item>
 		
 			<item>
 				<title>Faculty</title>
-				<link>https://giganticoranges.github.io/people/hussein-abdullah/index.html</link>
+				<link>/people/hussein-abdullah/index.html</link>
 				<pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;small-6 columns&quot;&gt;
 
@@ -123,12 +123,12 @@ Room 3405&lt;/p&gt;
   Tel: 519 824-4120 ext:53346&lt;/p&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/people/hussein-abdullah/index.html</guid>
+				<guid isPermaLink="true">/people/hussein-abdullah/index.html</guid>
 			</item>
 		
 			<item>
 				<title>Robo Rehab</title>
-				<link>https://giganticoranges.github.io/research-projects/robo-rehab/index.html</link>
+				<link>/research-projects/robo-rehab/index.html</link>
 				<pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;row t30&quot;&gt;
 	&lt;div class=&quot;medium-12 columns&quot;&gt;
@@ -151,21 +151,21 @@ Room 3405&lt;/p&gt;
 &lt;/div&gt;
 &lt;/ol&gt;&lt;/div&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/research-projects/robo-rehab/index.html</guid>
+				<guid isPermaLink="true">/research-projects/robo-rehab/index.html</guid>
 			</item>
 		
 			<item>
 				<title>Former Member</title>
-				<link>https://giganticoranges.github.io/former/Tom/</link>
+				<link>/former/Tom/</link>
 				<pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
 				<description>
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/former/Tom/</guid>
+				<guid isPermaLink="true">/former/Tom/</guid>
 			</item>
 		
 			<item>
 				<title>Co-op Student</title>
-				<link>https://giganticoranges.github.io/people/evan-smith/index.html</link>
+				<link>/people/evan-smith/index.html</link>
 				<pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
 				<description>&lt;div class=&quot;small-6 columns&quot;&gt;
   &lt;a href=&quot;/people/evan-smith/index.html&quot;&gt;&lt;img src=&quot;/images/missing_image.jpg&quot; /&gt;&lt;/a&gt;
@@ -174,7 +174,7 @@ Room 3405&lt;/p&gt;
 Room 3405&lt;/p&gt;
  &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://giganticoranges.github.io/people/evan-smith/index.html</guid>
+				<guid isPermaLink="true">/people/evan-smith/index.html</guid>
 			</item>
 		
 	</channel>

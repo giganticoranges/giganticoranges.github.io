@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://giganticoranges.github.io/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://giganticoranges.github.io/assets/js/modernizr.min.js"></script>
+	<script src="/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://giganticoranges.github.io/assets/xslt/rss.xslt">
+	<link rel="canonical" href="/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="">
-	<meta property="og:url" content="https://giganticoranges.github.io/assets/xslt/rss.xslt">
+	<meta property="og:url" content="/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="The Robotics Institute @ Guelph">
@@ -54,34 +54,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="https://giganticoranges.github.io/humans.txt">
+	<link type="text/plain" rel="author" href="/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://giganticoranges.github.io/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://giganticoranges.github.io/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://giganticoranges.github.io/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://giganticoranges.github.io/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -96,7 +96,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://giganticoranges.github.io" class="icon-tree"> The Robotics Institute @ Guelph</a></h1>
+      <h1 class="show-for-small-only"><a href="" class="icon-tree"> The Robotics Institute @ Guelph</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -160,7 +160,7 @@
 
             
             
-              <li><a  href="https://giganticoranges.github.io/index.html">The Robotics Institute @ Guelph</a></li>
+              <li><a  href="/index.html">The Robotics Institute @ Guelph</a></li>
               <li class="divider"></li>
 
             
@@ -175,7 +175,7 @@
 
             
             
-              <li><a  href="https://giganticoranges.github.io/about-us/index.html">About Us</a></li>
+              <li><a  href="/about-us/index.html">About Us</a></li>
               <li class="divider"></li>
 
             
@@ -192,34 +192,34 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://giganticoranges.github.io/research-projects/index.html">Research Projects</a>
+                <a  href="/research-projects/index.html">Research Projects</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://giganticoranges.github.io/research-projects/gigas/index.html">GIGAS</a></li>
+                      <li><a  href="/research-projects/gigas/index.html">GIGAS</a></li>
                     
 
                       
 
-                      <li><a  href="https://giganticoranges.github.io/research-projects/robo-rehab/index.html">Robo Rehab</a></li>
+                      <li><a  href="/research-projects/robo-rehab/index.html">Robo Rehab</a></li>
                     
 
                       
 
-                      <li><a  href="https://giganticoranges.github.io/research-projects/robotic-grasping/index.html">Robotic Grasping</a></li>
+                      <li><a  href="/research-projects/robotic-grasping/index.html">Robotic Grasping</a></li>
                     
 
                       
 
-                      <li><a  href="https://giganticoranges.github.io/research-projects/turfbot/index.html">Turfbot</a></li>
+                      <li><a  href="/research-projects/turfbot/index.html">Turfbot</a></li>
                     
 
                       
 
-                      <li><a  href="https://giganticoranges.github.io/research-projects/food-processing/index.html">Food Processing</a></li>
+                      <li><a  href="/research-projects/food-processing/index.html">Food Processing</a></li>
                     
                   </ul>
 
@@ -236,7 +236,7 @@
 
             
             
-              <li><a  href="https://giganticoranges.github.io/people/index.html">People</a></li>
+              <li><a  href="/people/index.html">People</a></li>
               <li class="divider"></li>
 
             
@@ -251,7 +251,7 @@
 
             
             
-              <li><a  href="https://giganticoranges.github.io/facilities/index.html">Facilities</a></li>
+              <li><a  href="/facilities/index.html">Facilities</a></li>
               <li class="divider"></li>
 
             
@@ -266,7 +266,7 @@
 
             
             
-              <li><a  href="https://giganticoranges.github.io/publications/index.html">Publications</a></li>
+              <li><a  href="/publications/index.html">Publications</a></li>
               <li class="divider"></li>
 
             
@@ -281,7 +281,7 @@
 
             
             
-              <li><a  href="https://giganticoranges.github.io/news-and-events/index.html">News and Events</a></li>
+              <li><a  href="/news-and-events/index.html">News and Events</a></li>
               <li class="divider"></li>
 
             
@@ -299,8 +299,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://giganticoranges.github.io/" title="The Robotics Institute @ Guelph – Slogan">
-				<img src="https://giganticoranges.github.io/assets/img/mylogo.png" alt=" ">
+			<a id="logo" href="/" title="The Robotics Institute @ Guelph – Slogan">
+				<img src="/assets/img/mylogo.png" alt=" ">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -398,12 +398,12 @@
               
                 
                   <li >
-                    <a href="https://giganticoranges.github.io"  title=""></a>
+                    <a href=""  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://giganticoranges.github.io"  title="Contact Us">info@guelphrobolab.ca</a>
+                    <a href=""  title="Contact Us">info@guelphrobolab.ca</a>
                   </li>
               
               </ul>
@@ -425,7 +425,7 @@
             
               
                 <li >
-                  <a href="https://giganticoranges.github.io"  title=""></a>
+                  <a href=""  title=""></a>
                 </li>
             
               
@@ -463,7 +463,7 @@
 		
 
 
-<script src="https://giganticoranges.github.io/assets/js/javascript.min.js"></script>
+<script src="/assets/js/javascript.min.js"></script>
 
 
 
