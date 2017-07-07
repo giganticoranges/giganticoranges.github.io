@@ -1,0 +1,38 @@
+- title: "The Robotic Institute @ Guelph"
+  url: "/index.html"
+  side: left
+
+- title: "About Us"
+  url: "/about-us/index.html"
+  side: left
+
+- title: "Research Projects"
+  url: "/research-projects/index.html"
+  side: left
+  dropdown:
+  - title: "GIGAS"
+    url: "/research-projects/gigas/index.html"
+  - title: "Robo Rehab"
+    url: "/research-projects/robo-rehab/index.html"
+  - title: "Robotic Grasping"
+    url: "/research-projects/robotic-grasping/index.html"
+  - title: "Turfbot"
+    url: "/research-projects/turfbot/index.html"
+  - title: "Food Processing"
+    url: "/research-projects/food-processing/index.html"
+
+- title: "People"
+  url: "/people/index.html"
+  side: left
+
+- title: Facilities
+  url: "/facilities/index.html"
+  side: left
+
+- title: Publications
+  url: "/publications/index.html"
+  side: left
+
+- title: News and Events
+  url: "/news-and-events/index.html"
+  side: left

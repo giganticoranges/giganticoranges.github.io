@@ -1,0 +1,9 @@
+- menu_name: "Links"
+
+- name: "School of Engineering"
+  url: "http://www.uoguelph.ca/engineering/"
+  title: "School of Engineering"
+
+- name: "University of Guelph"
+  url: "http://www.uoguelph.ca/"
+  title: "University of Guelph"
