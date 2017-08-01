@@ -11,6 +11,7 @@ Home: true
 ---
 
 <div class="row t30">
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
  <div class="medium-12 columns">
   <article itemscope itemtype="http://schema.org/Article">
   <header>
