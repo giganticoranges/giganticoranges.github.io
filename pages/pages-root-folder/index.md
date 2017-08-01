@@ -6,7 +6,8 @@ breadcrumb: true
 header:
     image: banner.jpg
     background-color:  "#FFFFFF"
-
+image:
+    thumb: "banner.jpg"
 Home: true
 ---
 
