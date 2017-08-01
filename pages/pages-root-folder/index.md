@@ -8,7 +8,6 @@ header:
     background-color:  "#FFFFFF"
 image:
     thumb: "banner.jpg"
-Home: true
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
