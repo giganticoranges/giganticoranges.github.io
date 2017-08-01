@@ -1,6 +1,5 @@
 ---
 layout: page
-title:  "About Us"
 permalink: /index.html
 breadcrumb: true
 header:
