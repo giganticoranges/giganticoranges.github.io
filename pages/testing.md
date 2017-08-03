@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "The Robotics Institute @ Guelph"
+title:  "About Us"
 breadcrumb: true
 permalink: /testing/index.html
 header:
