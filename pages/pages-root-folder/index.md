@@ -10,6 +10,40 @@ image:
 Home: true
 ---
 
+<div class="row t30">
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+ <div class="medium-12 columns">
+  <article itemscope itemtype="http://schema.org/Article">
+  <header>
+  <div itemprop="name">
+  </div>
+  </header>
+
+  <div itemprop="articleSection">
+  <ol>
+
+  <div class="w3-content w3-section" style="max-width:500px">
+   <img class="mySlides w3-animate-fading" src="{{site.baseurl}}/images/index-1.jpg" style="width:100%"/>
+   <img class="mySlides w3-animate-fading" src="{{site.baseurl}}/images/index-2.jpg" style="width:100%"/>
+   <img class="mySlides w3-animate-fading" src="{{site.baseurl}}/images/index-3.jpg" style="width:100%"/>
+  </div>
+
+  <script>
+   var slideIndex = 0;
+   carousel();
+
+   function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+   }
+   slideIndex++;
+   if (slideIndex > x.length) {slideIndex = 1}
+    x[slideIndex-1].style.display = "block";
+    setTimeout(carousel, 5000);
+   }
+  </script>
 
   <h1><br>The Robotics Institute @ Guelph</h1>
 
