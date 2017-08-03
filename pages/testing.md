@@ -15,20 +15,3 @@ image:
 <h2>Mission Statement</h2>
 
 <br>The Institute’s mandate is to encourage collaboration and education in order to advance non-traditional robotics research.
-
-<h2>Contact Us</h2>
-
-<br>Dr. Medhat Moussa
-<br>Director
-
-Please address email questions with subject line "robotics institute" to: mmoussa@uoguelph.ca
-
-Postal Address:
-<br>The Robotics Institute @ Guelph
-<br>School of Engineering
-<br>University of Guelph
-<br>Guelph, Ontario N1G 2W1
-<br>Canada
-
-Fax: 519-836-0227
-
