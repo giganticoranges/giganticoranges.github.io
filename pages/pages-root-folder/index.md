@@ -29,6 +29,7 @@ Home: true
   width: auto;
   padding: 16px;
   margin-top: -22px;
+  color: white;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -38,7 +39,7 @@ Home: true
 /* Position the "next button" to the right */
 .next {
   right: 0;
-  border-radius: 3px 0 0 3px;
+  border-radius: 0px 0 0 0px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
