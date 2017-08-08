@@ -39,7 +39,7 @@ Home: true
 /* Position the "next button" to the right */
 .next {
   right: 0;
-  border-radius: 0px 0 0 0px;
+  border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
