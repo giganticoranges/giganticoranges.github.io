@@ -86,7 +86,6 @@ Home: true
   .prev, .next,.text {font-size: 11px}
 }
 </style>
-</head>
 <body>
 
 <div class="slideshow-container">
