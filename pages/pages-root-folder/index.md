@@ -29,7 +29,7 @@ Home: true
   width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: white;
+  color: orange;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
