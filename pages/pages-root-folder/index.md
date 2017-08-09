@@ -33,13 +33,13 @@ Home: true
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
+  border-radius: 0 0 0 0;
 }
 
 /* Position the "next button" to the right */
 .next {
   right: 0;
-  border-radius: 3px 0 0 3px;
+  border-radius: 0 0 0 0;
 }
 
 /* On hover, add a black background color with a little bit see-through */
@@ -83,7 +83,7 @@ Home: true
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 110px}
+  .prev, .next,.text {font-size: 11px}
 }
 </style>
 <body>
