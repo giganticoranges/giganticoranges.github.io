@@ -43,7 +43,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/' /home/robot/Website/compiled/images/
-urlimg: 	'https://giganticoranges.github.io/images/'
+urlimg: 	'/images/'
 
 # Logo size is 600x80 pixels
 logo: "mylogo.png"
