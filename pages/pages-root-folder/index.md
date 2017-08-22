@@ -23,7 +23,6 @@ Home: true
 
 /* Next & previous buttons */
 .prev, .next {
-  border-style: solid;
   cursor: pointer;
   position: absolute;
   top: 50%;
