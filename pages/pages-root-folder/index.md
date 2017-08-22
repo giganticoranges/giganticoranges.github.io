@@ -39,7 +39,6 @@ Home: true
 
 /* Position the "next button" to the right */
 .next {
-  border: 0;
   right: 0;
   border-radius: 0 0 0 0;
 }
