@@ -44,7 +44,6 @@ Home: true
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  border-style: solid;
   background-color: rgba(0,0,0,0.8);
 }
 
