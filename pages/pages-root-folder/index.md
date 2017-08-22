@@ -46,7 +46,6 @@ Home: true
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  border: 0;
   background-color: rgba(0,0,0,0.8);
 }
 
@@ -63,7 +62,6 @@ Home: true
 }
 
 .active, .dot:hover {
-  border: 0;
   background-color: #717171;
 }
 
