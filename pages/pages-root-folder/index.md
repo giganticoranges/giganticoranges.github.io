@@ -65,7 +65,7 @@ Home: true
 
 .active, .dot:hover {
   border: 0;
-  border-radius: 5px;
+  border-radius: 25px;
   background-color: #717171;
 }
 
