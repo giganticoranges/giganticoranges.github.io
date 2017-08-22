@@ -23,6 +23,7 @@ Home: true
 
 /* Next & previous buttons */
 .prev, .next {
+  border: 0;
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -38,12 +39,14 @@ Home: true
 
 /* Position the "next button" to the right */
 .next {
+  border: 0;
   right: 0;
   border-radius: 0 0 0 0;
 }
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
+  border: 0;
   background-color: rgba(0,0,0,0.8);
 }
 
@@ -60,6 +63,7 @@ Home: true
 }
 
 .active, .dot:hover {
+  border: 0;
   background-color: #717171;
 }
 
