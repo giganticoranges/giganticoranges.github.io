@@ -52,7 +52,6 @@ Home: true
 
 /* The dots/bullets/indicators */
 .dot {
-  border: 0;
   cursor:pointer;
   height: 13px;
   width: 13px;
@@ -64,7 +63,6 @@ Home: true
 }
 
 .active, .dot:hover {
-  border: 0;
   border-radius: 25px;
   background-color: #717171;
 }
