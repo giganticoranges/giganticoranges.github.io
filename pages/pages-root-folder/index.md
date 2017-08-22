@@ -16,7 +16,6 @@ Home: true
 
 /* Slideshow container */
 .slideshow-container {
-  border-style: solid;
   max-width: 1000px;
   position: relative;
   margin: auto;
@@ -40,7 +39,6 @@ Home: true
 
 /* Position the "next button" to the right */
 .next {
-  border-style: solid;
   right: 0;
   border-radius: 3px 0 0 3px;
 }
@@ -53,7 +51,6 @@ Home: true
 
 /* The dots/bullets/indicators */
 .dot {
-  border-style: solid;
   cursor:pointer;
   height: 13px;
   width: 13px;
@@ -65,7 +62,6 @@ Home: true
 }
 
 .active, .dot:hover {
-  border-style: solid;
   background-color: #717171;
 }
 
